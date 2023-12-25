@@ -4,7 +4,7 @@ Python is a versatile, high-level programming language known for its readability
 
 Here's a brief introduction to key aspects of Python:
 
-1. Syntax:
+1. **Syntax:**
 Python uses a clean and straightforward syntax that emphasizes readability. It uses indentation to define code blocks, eliminating the need for braces or other explicit block delimiters.
 Example:
 
@@ -14,3 +14,5 @@ if x > 0:
 else:
     print("Non-positive number")
 ```
+2. **Interpreted and High Level:**
+Python is an interpreted language, meaning that it does not need to be compiled before execution. This makes development and debugging more interactive. It is also a high-level language, abstracting away many low-level details, which simplifies programming.
