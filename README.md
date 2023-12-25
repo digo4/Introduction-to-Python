@@ -29,7 +29,7 @@ z = 3.14        # Float
 4. **Rich Standard Library:**
 Python comes with a comprehensive standard library that includes modules for various tasks, such as file I/O, regular expressions, networking, and more. This reduces the need for external dependencies.
 5. **Object-Oriented:**
-Python supports object-oriented programming, encapsulating data and behavior into objects. It allows for the creation and manipulation of classes and objects.
+Python supports object-oriented programming (OOP), encapsulating data and behavior into objects. It allows for the creation and manipulation of classes and objects.
 Example:
 
 ```{python}
@@ -51,3 +51,10 @@ Python is used in various domains, including web development, data science, arti
 8. **Popular Frameworks:**
 Python has popular frameworks and libraries that simplify complex tasks. Some examples include Django and Flask for web development, NumPy and Pandas for data science, TensorFlow and PyTorch for machine learning, and many more.
 
+## Getting Started 
+To get started with Python, you need to install the Python interpreter on your system. You can download it from the official Python website. Once installed, you can run Python scripts from the command line or use integrated development environments (IDEs) like VSCode, PyCharm, or Jupyter notebooks for interactive development.
+On a personal note, I like Jupyter notebook a lot, because besides providing a neat IDE for executing and debugging code, it comes pre-installed with lots of modules like Numpy, Pandas, Matplotlib, Seborn, Scikitlearn etc. 
+
+## Installation
+1. Install a Python interpreter : https://www.python.org/
+2. Install Jupyter notebook : 
