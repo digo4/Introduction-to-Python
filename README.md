@@ -1,6 +1,4 @@
 ## Introduction
-![image](https://github.com/digo4/Introduction-to-Python/assets/154576641/6dd0e256-2b49-4b88-925a-34e56a60025e)
-
 
 Python is a versatile, high-level programming language known for its readability, simplicity, and broad applicability. It was created by Guido van Rossum and first released in 1991. Python's design philosophy emphasizes code readability and ease of use, making it a popular choice for beginners and experienced developers alike.
 
