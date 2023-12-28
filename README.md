@@ -1,3 +1,6 @@
+[![Static Badge](https://img.shields.io/badge/python-%3E%3D3.8.0-blue](https://www.python.org/downloads/)
+
+
 ## Introduction
 
 Python is a versatile, high-level programming language known for its readability, simplicity, and broad applicability. It was created by Guido van Rossum and first released in 1991. Python's design philosophy emphasizes code readability and ease of use, making it a popular choice for beginners and experienced developers alike.
