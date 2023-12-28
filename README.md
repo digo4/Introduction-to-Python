@@ -1,4 +1,4 @@
-[![Static Badge](https://img.shields.io/badge/python-%3E%3D3.8.0-blue](https://www.python.org/downloads/)
+![Static Badge](https://img.shields.io/badge/python-%3E%3D3.8.0-blue
 
 
 ## Introduction
