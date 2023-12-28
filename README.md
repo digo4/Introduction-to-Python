@@ -57,4 +57,7 @@ On a personal note, I like Jupyter notebook a lot, because besides providing a n
 
 ## Installation
 1. Install a Python interpreter : https://www.python.org/
-2. Install Jupyter notebook : 
+2. Install Anaconda Navigator :  https://anaconda.org/anaconda/anaconda-navigator
+
+## Starting up Jupyter notebook
+
