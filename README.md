@@ -2,7 +2,8 @@
 ](https://pypi.org/project/numpy/) [![Static Badge](https://img.shields.io/badge/pandas-v.2.1.4-purple)
 ](https://pypi.org/project/pandas/) [![Static Badge](https://img.shields.io/badge/matplotlib-v.3.8.2-magenta)
 ](https://pypi.org/project/matplotlib/) [![Static Badge](https://img.shields.io/badge/seaborn-v.0.13.0-orange)
-](https://pypi.org/project/seaborn/)
+](https://pypi.org/project/seaborn/)  [![Static Badge](https://img.shields.io/badge/scipy-v.1.11.4-yellow)
+](https://pypi.org/project/SciPy/)
 
 
 
