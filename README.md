@@ -1,5 +1,6 @@
 [![Static Badge](https://img.shields.io/badge/python-%3E%3D3.8.0-blue)](https://www.python.org/downloads/) [![Static Badge](https://img.shields.io/badge/numpy-v.1.26.2-teal)
-](https://pypi.org/project/numpy/)
+](https://pypi.org/project/numpy/) [![Static Badge](https://img.shields.io/badge/pandas-v.2.1.4-purple)
+](https://pypi.org/project/pandas/)
 
 
 
